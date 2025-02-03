@@ -1,6 +1,5 @@
 # INTRODUCTION
-- Name: Aaron Zeile
-- Date: 02/02/2025
+This program reads an input file and uses it to create a directed graph. Then, it processes the graph and prints its adjacency list and strongly connected components to an output file.
 
 # INPUT FORMAT
 Input files to be utilized by the program are formatted as such:

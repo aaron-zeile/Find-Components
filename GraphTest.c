@@ -1,7 +1,6 @@
 /*** Aaron Zeile ***
 **** azeile ********
-**** GraphTest.c ***
-**** pa3 **********/
+
 
 #include <stdio.h>
 #include <stdlib.h>

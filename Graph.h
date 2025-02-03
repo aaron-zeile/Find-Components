@@ -1,7 +1,5 @@
 /*** Graph.h ***/
 /*** Aaron Zeile ***/
-/*** ID: azeile ***/
-/*** pa3 ***/
 
 #include <stdio.h>
 #include <stdlib.h>
